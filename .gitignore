@@ -1,0 +1,7 @@
+# Ignore non-project PHP files
+dbtest.php
+index.php
+ollama-test.php
+test-post.php
+test.php
+info.php
